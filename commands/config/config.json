@@ -1,0 +1,17 @@
+{
+    "prefix": "?",
+    "owner": "617431812754636806",
+    "signup_color": "#ffffff",
+    "signup_title": "Ticket 🎫",
+    "answer_title": "Reagálj az emojira hogy megnyissd a ticketedet",
+    "answer_color": "#ff00dd",
+    "answer_description": "A ticketedet megnyitottuk",
+    "Giveaway_Options": {
+        "giveawayManagerID": "",
+        "giveawayRoleID": "",
+        "giveawayMention": true,
+        "showMention": true,
+        "hostedBy": true
+        }
+
+}
